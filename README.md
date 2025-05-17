@@ -107,6 +107,6 @@ pneumonia-xray-classifier/\
 
 - Dataset by Paul Mooney via [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 - Transfer learning model: [MobileNetV2](https://arxiv.org/abs/1801.04381) from TensorFlow/Keras
-- Project developed for my AI and DL Assignment
+- Project developed for my AI&DL Assignment
 
 ---
