@@ -1,3 +1,13 @@
+# dataset
+dataset/
+data/
+*.jpeg
+
+# models
+models/
+*.h5
+*.keras
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
