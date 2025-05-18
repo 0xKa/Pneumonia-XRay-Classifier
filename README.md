@@ -8,19 +8,22 @@ This project uses **deep learning** techniques to classify chest X-ray images in
 
 ## 📁 Project Structure
 
-pneumonia-xray-classifier/\
-├── dataset/ >> Not included in repo (see below)\
-│ └── train/ >> Contains NORMAL/ and PNEUMONIA/\
-│ └── test/ >> Contains NORMAL/ and PNEUMONIA/\
-├── models/ >> Saved trained models (.keras)\
-├── notebooks/\
-│ ├── 1_data_exploration.ipynb\
-│ ├── 2_train_custom_cnn.ipynb\
-│ ├── 3_train_transfer_model.ipynb\
-│ └── 4_evaluate_model.ipynb\
-├── .gitignore\
-├── README.md\
-└── requirements.txt\
+pneumonia-xray-classifier/
+├── dataset/
+│   ├── train/
+│   │   └── >> Contains Images of NORMAL/ and PNEUMONIA/
+│   └── test/
+│       └── >> Contains Images of NORMAL/ and PNEUMONIA/
+├── models/
+│   └── >> Saved trained models (.keras)
+├── nootbooks/
+│   ├── 1_data_exploration.ipynb
+│   ├── 2_train_custom_cnn.ipynb
+│   ├── 3_train_transfer_model.ipynb
+│   └── 4_evaluate_model.ipynb
+├── .gitignore
+├── README.md
+└── requirements.txt
 
 ---
 
